@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#! /usr/bin/python3
 #
 # $Id: //projects/empy/setup.py.pre#2 $ $Date: 2003/09/07 $
 

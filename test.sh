@@ -6,7 +6,7 @@ if [ $# = 1 ]
 then
     PYTHON="$1"
 else
-    PYTHON=python
+    PYTHON=python3
 fi
 
 EMPY=em.py
